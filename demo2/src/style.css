@@ -1,0 +1,64 @@
+@font-face {
+    font-family: "iconfont";
+    src: url('iconfont.eot?t=1608883431513');
+    /* IE9 */
+    src: url('iconfont.eot?t=1608883431513#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('data:application/x-font-woff2;charset=utf-8;base64,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') format('woff2'),
+        url('iconfont.woff?t=1608883431513') format('woff'),
+        url('iconfont.ttf?t=1608883431513') format('truetype'),
+        /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+        url('iconfont.svg?t=1608883431513#iconfont') format('svg');
+    /* iOS 4.1- */
+}
+
+.iconfont {
+    font-family: "iconfont" !important;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-ju:before {
+    content: "\e637";
+}
+
+.icon-danju:before {
+    content: "\e62a";
+}
+
+.icon-jiankelahangli:before {
+    content: "\e61b";
+}
+
+.icon-tongji1:before {
+    content: "\e61c";
+}
+
+.icon-canshi:before {
+    content: "\e655";
+}
+
+.icon-gongkaobei:before {
+    content: "\e61d";
+}
+
+.icon-fuwu2:before {
+    content: "\e61f";
+}
+
+.icon-zhijidengjibanli:before {
+    content: "\e62c";
+}
+
+
+
+.hello {
+    color: red;
+    background: url('./icon.svg');
+}
+
+.hello:before {
+    content: "\e637";
+}
